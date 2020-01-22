@@ -1,0 +1,34 @@
+p { color: red;
+}
+
+.important {
+  color: red;
+}
+
+.unimportant {
+  color: blue;
+}
+
+.highlight {
+  color: yellow;
+}
+
+.fish-type {
+  color: purple;
+}
+
+img {
+  float: right;
+}
+
+.column {
+  wideth: 300 px;
+  float: left;
+}
+
+.my-class {
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
+  background-color: orange;
+}
